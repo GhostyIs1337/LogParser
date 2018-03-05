@@ -1,0 +1,6 @@
+C:\Users\Jan\Desktop\projects\Csharp\LogParser\LogParser\bin\Release\LogParser.exe
+C:\Users\Jan\Desktop\projects\Csharp\LogParser\LogParser\bin\Release\LogParser.pdb
+C:\Users\Jan\Desktop\projects\Csharp\LogParser\LogParser\obj\Release\LogParser.csproj.CoreCompileInputs.cache
+C:\Users\Jan\Desktop\projects\Csharp\LogParser\LogParser\obj\Release\LogParser.exe
+C:\Users\Jan\Desktop\projects\Csharp\LogParser\LogParser\obj\Release\LogParser.pdb
+C:\Users\Jan\Desktop\projects\Csharp\LogParser\LogParser\obj\Release\LogParser.csprojResolveAssemblyReference.cache
